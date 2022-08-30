@@ -1,0 +1,26 @@
+.order {
+  padding: 40px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.order__id {
+  /* font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 20px; */
+
+  position: absolute;
+  top: 40px;
+  right: 20px;
+}
+
+.order__total {
+  /* font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 20px; */
+
+  font-weight: 500;
+  text-align: right;
+}
